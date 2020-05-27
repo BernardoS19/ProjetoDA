@@ -1,0 +1,76 @@
+D:\Downloads\ProjetoDA\ProjetoDA\bin\Debug\ProjetoDA.exe.config
+D:\Downloads\ProjetoDA\ProjetoDA\bin\Debug\ProjetoDA.exe
+D:\Downloads\ProjetoDA\ProjetoDA\bin\Debug\ProjetoDA.pdb
+D:\Downloads\ProjetoDA\ProjetoDA\bin\Debug\EntityFramework.dll
+D:\Downloads\ProjetoDA\ProjetoDA\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\ProjetoDA\ProjetoDA\bin\Debug\EntityFramework.xml
+D:\Downloads\ProjetoDA\ProjetoDA\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.csprojAssemblyReference.cache
+D:\Downloads\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.Form1.resources
+D:\Downloads\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.Properties.Resources.resources
+D:\Downloads\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.VendaDeCasaForm.resources
+D:\Downloads\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.csproj.GenerateResource.cache
+D:\Downloads\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.csproj.CoreCompileInputs.cache
+D:\Downloads\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.csproj.CopyComplete
+D:\Downloads\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.exe
+D:\Downloads\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.pdb
+D:\Downloads\DA projetc\ProjetoDA\ProjetoDA\bin\Debug\ProjetoDA.exe.config
+D:\Downloads\DA projetc\ProjetoDA\ProjetoDA\bin\Debug\ProjetoDA.exe
+D:\Downloads\DA projetc\ProjetoDA\ProjetoDA\bin\Debug\ProjetoDA.pdb
+D:\Downloads\DA projetc\ProjetoDA\ProjetoDA\bin\Debug\EntityFramework.dll
+D:\Downloads\DA projetc\ProjetoDA\ProjetoDA\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\DA projetc\ProjetoDA\ProjetoDA\bin\Debug\EntityFramework.xml
+D:\Downloads\DA projetc\ProjetoDA\ProjetoDA\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\DA projetc\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.csprojAssemblyReference.cache
+D:\Downloads\DA projetc\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.ArrendamentosForm.resources
+D:\Downloads\DA projetc\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.ClientesForm.resources
+D:\Downloads\DA projetc\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.Form1.resources
+D:\Downloads\DA projetc\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.GerirCasasForm.resources
+D:\Downloads\DA projetc\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.LimpezasForm.resources
+D:\Downloads\DA projetc\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.Properties.Resources.resources
+D:\Downloads\DA projetc\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.VendaDeCasaForm.resources
+D:\Downloads\DA projetc\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.csproj.GenerateResource.cache
+D:\Downloads\DA projetc\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.csproj.CoreCompileInputs.cache
+D:\Downloads\DA projetc\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.csproj.CopyComplete
+D:\Downloads\DA projetc\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.exe
+D:\Downloads\DA projetc\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.pdb
+D:\Downloads\copia DA projeto\DA projetc\ProjetoDA\ProjetoDA\bin\Debug\ProjetoDA.exe.config
+D:\Downloads\copia DA projeto\DA projetc\ProjetoDA\ProjetoDA\bin\Debug\ProjetoDA.exe
+D:\Downloads\copia DA projeto\DA projetc\ProjetoDA\ProjetoDA\bin\Debug\ProjetoDA.pdb
+D:\Downloads\copia DA projeto\DA projetc\ProjetoDA\ProjetoDA\bin\Debug\EntityFramework.dll
+D:\Downloads\copia DA projeto\DA projetc\ProjetoDA\ProjetoDA\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\copia DA projeto\DA projetc\ProjetoDA\ProjetoDA\bin\Debug\EntityFramework.xml
+D:\Downloads\copia DA projeto\DA projetc\ProjetoDA\ProjetoDA\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\copia DA projeto\DA projetc\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.csprojAssemblyReference.cache
+D:\Downloads\copia DA projeto\DA projetc\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.ArrendamentosForm.resources
+D:\Downloads\copia DA projeto\DA projetc\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.ClientesForm.resources
+D:\Downloads\copia DA projeto\DA projetc\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.Form1.resources
+D:\Downloads\copia DA projeto\DA projetc\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.GerirCasasForm.resources
+D:\Downloads\copia DA projeto\DA projetc\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.LimpezasForm.resources
+D:\Downloads\copia DA projeto\DA projetc\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.Properties.Resources.resources
+D:\Downloads\copia DA projeto\DA projetc\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.VendaDeCasaForm.resources
+D:\Downloads\copia DA projeto\DA projetc\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.csproj.GenerateResource.cache
+D:\Downloads\copia DA projeto\DA projetc\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.csproj.CoreCompileInputs.cache
+D:\Downloads\copia DA projeto\DA projetc\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.csproj.CopyComplete
+D:\Downloads\copia DA projeto\DA projetc\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.exe
+D:\Downloads\copia DA projeto\DA projetc\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.pdb
+C:\Users\jafcu\source\repos\27 andre\ProjetoDA\ProjetoDA\bin\Debug\ProjetoDA.exe.config
+C:\Users\jafcu\source\repos\27 andre\ProjetoDA\ProjetoDA\bin\Debug\ProjetoDA.exe
+C:\Users\jafcu\source\repos\27 andre\ProjetoDA\ProjetoDA\bin\Debug\ProjetoDA.pdb
+C:\Users\jafcu\source\repos\27 andre\ProjetoDA\ProjetoDA\bin\Debug\EntityFramework.dll
+C:\Users\jafcu\source\repos\27 andre\ProjetoDA\ProjetoDA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jafcu\source\repos\27 andre\ProjetoDA\ProjetoDA\bin\Debug\EntityFramework.xml
+C:\Users\jafcu\source\repos\27 andre\ProjetoDA\ProjetoDA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jafcu\source\repos\27 andre\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.csprojAssemblyReference.cache
+C:\Users\jafcu\source\repos\27 andre\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.ArrendamentosForm.resources
+C:\Users\jafcu\source\repos\27 andre\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.ClientesForm.resources
+C:\Users\jafcu\source\repos\27 andre\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.Form1.resources
+C:\Users\jafcu\source\repos\27 andre\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.GerirCasasForm.resources
+C:\Users\jafcu\source\repos\27 andre\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.LimpezasForm.resources
+C:\Users\jafcu\source\repos\27 andre\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.Properties.Resources.resources
+C:\Users\jafcu\source\repos\27 andre\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.VendaDeCasaForm.resources
+C:\Users\jafcu\source\repos\27 andre\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.csproj.GenerateResource.cache
+C:\Users\jafcu\source\repos\27 andre\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.csproj.CoreCompileInputs.cache
+C:\Users\jafcu\source\repos\27 andre\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.csproj.CopyComplete
+C:\Users\jafcu\source\repos\27 andre\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.exe
+C:\Users\jafcu\source\repos\27 andre\ProjetoDA\ProjetoDA\obj\Debug\ProjetoDA.pdb
