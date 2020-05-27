@@ -1,1 +1,0 @@
-﻿SELECT IdCasa, Localidade, Tipo FROM dbo.Casa
